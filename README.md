@@ -28,3 +28,5 @@ GPS: Adicional de +RD$100/día (`chkGps`).
  
 Lista de vehículos (lstAlquileres): Muestra cada alquiler en columnas alineadas con encabezado (Días, Vehículo, Tarifa, Total).   
 Desglose de montos: Etiquetas formateadas en moneda (RD$ 0.00) para Subtotal, Descuento, Domicilio, ITBIS (18 %) y TOTAL A PAGAR.
+<img width="1146" height="571" alt="Captura de pantalla 2026-11-19 232351" src="https://github.com/user-attachments/assets/65d059e1-6603-4fed-8210-072510626535" />
+
